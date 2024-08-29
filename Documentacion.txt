@@ -7,7 +7,11 @@ Zelaya Chavez, Kevin Alejandro SMIS091121
 
 
 
+Ejercicio 1:
+Este programa organiza las citas de cada paciente en un consultorio, en este se utilizaron dos clases para representar los datos de los pacientes y el segundo para asignar un doctor o doctora a cada paciente, la solucion que encontramos para este probelma fue, que si un paciente llegaba al consultorio se le creaba una cita y se le asignaba un doctor en especifico, pero si este paciente ya tenia una cita anteriormente, no era necesario tomarle de nuevo los datos, ya que ya estaba registrado, a este paciente se le redirigia a la sala de espera asi facilitar y agilizar el proceso.
 
+Ejercicio 2: 
+Es este programa se prioriza mostrar la fecha de devolucion de un libro de una biblioteca para que el lector no sobrepase la fecha limite de entrega de el libro que se le presto, utiliza tres clases el primero es llamada Lector que es para definir los datos del lector como el nombre, la tarjerta, la segunda clase llamada libro, es para registrar el nombre del libro que se llevo el lector, la fecha en la que se lo llevo y la devolucion, el tercero es biblioteca es para getsionar los prestamos y devoluciones, el resultado final, muestra el nombre del lector, el nombre del libro que presto y la fecha que se presto, asi mismo la fecha estipulada para su devolucion respectiva 
 
 Ejercicio 3:
 
