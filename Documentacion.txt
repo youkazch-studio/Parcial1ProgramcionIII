@@ -1,0 +1,28 @@
+
+
+Integrantes: 
+
+Cantarero Arias, Melissa Abigail SMSS136723
+Zelaya Chavez, Kevin Alejandro SMIS091121
+
+
+
+
+
+Ejercicio 3:
+
+El programa utiliza Programación Orientada a Objetos (POO) para representar entidades clave como Habitacion, Cliente, Factura, y Recepcionista. 
+Esto permite modularidad, reutilización de código, y facilidad de mantenimiento. Las funciones organizan el código y encapsulan comportamientos 
+específicos, facilitando su uso y comprensión. Se utilizan colecciones de datos (listas) para manejar múltiples elementos como habitaciones y servicios 
+extras, y estructuras de control (bucles for y while) para gestionar el flujo de ejecución y la interacción con el cliente. 
+Estas decisiones permiten un código claro, organizado y eficiente.
+
+
+Ejercicio 4:
+
+
+El programa utiliza Programación Orientada a Objetos (POO) para modelar las entidades principales, como vehículos y clientes, 
+permitiendo una estructura clara y escalable. Las funciones se emplean para modularizar el código, haciéndolo más organizado y fácil de mantener. 
+Se usaron estructuras de control (como condicionales) para gestionar el flujo del programa, asegurando que las operaciones se realicen 
+correctamente. Además, se utilizó una lista para manejar los vehículos disponibles, permitiendo una gestión dinámica de los datos. 
+La combinación de estas técnicas ofrece un código robusto, reutilizable y fácil de extender.
